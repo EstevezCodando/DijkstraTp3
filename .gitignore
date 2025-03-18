@@ -1,0 +1,4 @@
+venvdijkstra/
+__pycache__/
+*.pyc
+*.pyo
